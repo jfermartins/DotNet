@@ -1,0 +1,8 @@
+dotnet new console -h
+dotnet new console -n [nome]
+dotnet restore
+dotnet build
+dotnet run
+
+explorer .
+code .
