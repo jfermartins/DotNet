@@ -1,0 +1,15 @@
+C:\Users\janef\Documents\Cursos\DotNet\Dio\bin\Debug\net6.0\Dio.exe
+C:\Users\janef\Documents\Cursos\DotNet\Dio\bin\Debug\net6.0\Dio.deps.json
+C:\Users\janef\Documents\Cursos\DotNet\Dio\bin\Debug\net6.0\Dio.runtimeconfig.json
+C:\Users\janef\Documents\Cursos\DotNet\Dio\bin\Debug\net6.0\Dio.dll
+C:\Users\janef\Documents\Cursos\DotNet\Dio\bin\Debug\net6.0\ref\Dio.dll
+C:\Users\janef\Documents\Cursos\DotNet\Dio\bin\Debug\net6.0\Dio.pdb
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.csproj.AssemblyReference.cache
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.AssemblyInfoInputs.cache
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.AssemblyInfo.cs
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.csproj.CoreCompileInputs.cache
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.dll
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\ref\Dio.dll
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.pdb
+C:\Users\janef\Documents\Cursos\DotNet\Dio\obj\Debug\net6.0\Dio.genruntimeconfig.cache
